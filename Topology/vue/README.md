@@ -27,7 +27,11 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### 需要安装相关插件
+```sh
 npm install jquery --save
 npm install express body-parser
 npm install express cors
 node server.js
+```
